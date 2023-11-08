@@ -32,9 +32,7 @@ require 'vendor/autoload.php';
 
 $mail = new PHPMailer(true);
 $emails = array(
-    'gdean6233@gmail.com',
-    '717821p105@kce.ac.in',
-    '717821p108@kce.ac.in'
+    "Reciver's Email"
   
 );
 foreach($emails as $email){
@@ -46,8 +44,8 @@ try {
     $mail->isSMTP();
     $mail->Host = 'smtp.gmail.com';
     $mail->SMTPAuth = true;
-    $mail->Username = 'studypurpose886@gmail.com';
-    $mail->Password = 'nvtzaqaqkfhnwqbe'; // App password
+    $mail->Username = 'urgamil.com';
+    $mail->Password = '****ur password******'; // App password
     $mail->SMTPSecure = 'tls';
     $mail->Port = 587;
     $mail->addEmbeddedImage('logo-ftr.png','logo');
