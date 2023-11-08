@@ -46,7 +46,7 @@ Users can export the generated proposal in  PDF
 ## Team
 - UI/UX Designer: [Allwin, Arvind R]
 - Frontend Developer: [Alagu Aravind , Balashekaran , Arvind]
-- Backend Developer: [Alagu Aravind, Arvind]
+- Backend Developer: [Alagu Aravind, Balashekaran,Arvind]
 
 
 ## Conclusion
