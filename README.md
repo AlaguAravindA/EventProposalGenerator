@@ -6,9 +6,8 @@ The Event Proposal Generator is a project aimed at automating the process of cre
 ## Features
 - User-friendly web interface for inputting event details.
 - Template-based proposal generation.
-- Customizable proposal templates.
-- Support for different types of events (e.g., weddings, conferences, parties).
-- Export proposals in various formats (e.g., PDF, Word).
+- For Collage for Event  Propasal Generater
+- Export proposals in PDF format
 
 ## Project Components
 
@@ -27,12 +26,12 @@ The user interface will allow event planners to input the following details:
 Based on the input details and selected template, the system will generate a complete event proposal document.
 
 ### Export Options
-Users can export the generated proposal in various formats such as PDF and Word for sharing with clients and stakeholders.
+Users can export the generated proposal in  PDF
 
 ## Technologies
-- Web development (HTML, CSS, JavaScript)
-- Backend development (Node.js, Python, Ruby, etc.)
-- Document generation libraries (e.g., Markdown to PDF conversion)
+- Web development (HTML, CSS, JavaScript,BootStrap)
+- Backend development (php,MySql)
+- Document generation libraries (html2pdf)
 
 ## Project Timeline
 1. **Project Planning**: Define project scope, requirements, and team roles (2 weeks).
