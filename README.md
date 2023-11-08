@@ -22,8 +22,6 @@ The user interface will allow event planners to input the following details:
 - Attendee count
 - Special requirements
 
-### Proposal Templates
-The system will include a set of pre-defined proposal templates that users can choose from. Users can also customize these templates or create new ones.
 
 ### Proposal Generation
 Based on the input details and selected template, the system will generate a complete event proposal document.
